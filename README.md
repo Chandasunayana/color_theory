@@ -1,0 +1,1 @@
+Color Theory is the study of how colors interact, combine, and influence perception. It helps designers choose effective color combinations to create visually appealing and meaningful designs. Understanding concepts like the color wheel, harmony, contrast, and color psychology is essential for building attractive user interfaces.
